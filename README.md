@@ -4,7 +4,7 @@
 - 📚 Estou me aprofundando em CSS, HTML, JavaScript e Python.
 - 📈 Desejo enriquecer meus conhecimentos cada vez mais.
 
-#📌 Objetivos
+# 📌 Objetivos
 - Me especializar na área de TI. 
 
 <div align="center">
