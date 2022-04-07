@@ -1,0 +1,14 @@
+h1{
+color: coral;
+border: 2px solid blue;
+
+}
+.paragrafo {
+    font-size: 50px;
+    border: 2px solid peru;
+    border-radius: 50%;
+
+}
+body{
+    background-color: #CD853F;
+}
